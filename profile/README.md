@@ -6,7 +6,7 @@ Minecraft Server: play.coffeepixel.net
 Verison: 1.8-1.20                            
                             
 Store: https://store.coffeepixel.net                            
-Discord: [https://discord.gg/qQKyqfTW5R](https://discord.gg/K2Fy757H9T)                                                                                                               
-Server Status: [[https://coffeebedwars.statuspage.io](https://status.coffeepixel.net)](https://status.coffeepixel.net)                                                                                    
+Discord: https://discord.gg/K2Fy757H9T                                                                                                               
+Server Status: https://status.coffeepixel.net                                                                                  
                             
 Support email: support@coffeepixel.net                            
