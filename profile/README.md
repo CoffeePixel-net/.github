@@ -4,7 +4,8 @@ If you want to contact Coffeepixel Our support email is. support@coffeepixel.net
                             
 Minecraft Server: play.coffeepixel.net                            
 Verison: 1.8-1.20                            
-                            
+
+forums: https://coffeepixel.net                            
 Store: https://store.coffeepixel.net                            
 Discord: https://discord.gg/K2Fy757H9T                                                                                                               
 Server Status: https://status.coffeepixel.net                                                                                  
