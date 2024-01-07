@@ -7,7 +7,8 @@ Verison: 1.8-1.20
 
 forums: https://coffeepixel.net                            
 Store: https://store.coffeepixel.net                            
-Discord: https://discord.gg/K2Fy757H9T                                                                                                               
+Discord: https://discord.gg/K2Fy757H9T                    
+Modpack: https://modrinth.com/modpack/coffeepixel                    
 Server Status: https://status.coffeepixel.net                                                                                  
                             
 Support email: support@coffeepixel.net                            
